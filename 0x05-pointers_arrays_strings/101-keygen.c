@@ -3,7 +3,7 @@
 #include <time.h>
 
 /**
- * main - pragram that generates random volid
+ * main - program that generates random valid
  * passwords for the program 101 -crackme
  *
  * Return: Always 0 (Success0
